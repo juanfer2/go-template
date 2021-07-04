@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/juanfer2/go-thrullo-api.git/src/servers"
+	"github.com/juanfer2/go-template/src/servers"
 )
 
 func main() {
